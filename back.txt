@@ -1,0 +1,18 @@
+#0 : hello : 2 : f1.txt : 2 : file2.txt : 1 #
+#0 : hey : 1 : file2.txt : 1 #
+#0 : how : 1 : file2.txt : 1 #
+#10 : rbgiu : 1 : file2.txt : 1 #
+#12 : the : 1 : file2.txt : 1 #
+#15 : world : 1 : f1.txt : 1 #
+#15 : way : 1 : file2.txt : 1 #
+#17 : you : 1 : file2.txt : 1 #
+#19 : are : 1 : file2.txt : 1 #
+#20 : by : 1 : file2.txt : 1 #
+#20 : b4t : 1 : file2.txt : 1 #
+#21 : c : 1 : f1.txt : 1 #
+#23 : embedded : 1 : f1.txt : 1 #
+#26 : % : 1 : file1.txt : 1 #
+#26 : & : 1 : file1.txt : 1 #
+#26 : * : 1 : file1.txt : 1 #
+#26 : $ : 1 : file1.txt : 1 #
+#26 : 3btgui : 1 : file2.txt : 1 #
